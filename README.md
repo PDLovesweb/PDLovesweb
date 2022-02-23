@@ -4,11 +4,10 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Darshikan-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Darshikan-yellow)](https://stackoverflow.com/users/edit/18259084)
 
-Hello all,
-
 Welcome to my githubpage
 
 I am a Budding Full Stack Web Developer
+
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
